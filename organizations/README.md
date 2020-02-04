@@ -46,7 +46,7 @@
 45. OWASP Foundation(python,javascript)
 46. PEcAn Project(python,postgresql)
 
-### Round 1(from bottom to phpMyAdmin for 2018)
+### Round 1 (from bottom to phpMyAdmin for 2018)
 1. XBMC Foundation (c/c++,python,MySQL, GitHub)
 2. Worldbrain.io: Verifying the Internet (JavaScript)
 3. ViSP(c/c++)
@@ -76,7 +76,7 @@
 27. PMD(xml)
 30. Plone(python, JavaScript,html,css)
 
-### Round 1(from bottom to OSGeo for 2017)
+### Round 1 (from bottom to OSGeo for 2017)
 1. Zenodo(python, postgresql,flask)
 2. Xen project (c/c++)
 3. Wxwidgets(c++)
